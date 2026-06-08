@@ -1,3 +1,6 @@
+# Lesson 07 - API Integration
+# Lesson 07 - API Integration
+# Lesson 07 - API Integration
 # Lesson 10 - Advanced State Management (useReducer, useContext)
 # Lesson 09 - API Sort, Search, Debounce, Pagination
 # Lesson 08 - Advanced Hooks (useMemo, useCallback, React.memo)
