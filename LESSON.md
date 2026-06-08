@@ -1,3 +1,4 @@
+# Lesson 08 - Advanced Hooks (useMemo, useCallback, React.memo)
 # Lesson 06 - Organization
 # Lesson 06 - Organization
 # Lesson 06 - Organization
